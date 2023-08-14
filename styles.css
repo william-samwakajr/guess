@@ -1,6 +1,7 @@
 body {
     background-image: url(questioning-concept-with-question-mark.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .container {
